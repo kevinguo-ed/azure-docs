@@ -39,7 +39,7 @@ Azure Web PubSub service is designed for large-scale real-time applications. The
 
 **Support for a wide variety of client SDKs and programming languages:**
 
-Azure Web PubSub service works with a broad range of clients, such as web and mobile browsers, desktop apps, mobile apps, server process, IoT devices, and game consoles. Since this service supports the standard WebSocket connection with publish-subscribe pattern, it is easily to use any standard WebSocket client SDK in different languages with this service. 
+Azure Web PubSub service works with a broad range of clients, such as web and mobile browsers, desktop apps, mobile apps, server process, IoT devices, and game consoles. Since this service supports the standard WebSocket connection with publish-subscribe pattern, it is easy to use any standard WebSocket client SDK in different languages with this service. 
 
 **Offer rich APIs for different messaging patterns:**
 
