@@ -274,7 +274,7 @@ The service provides REST APIs for the server to do connection management:
 The detailed REST API protocol is defined [here][rest].
 
 ### Summary
-You may have noticed that the *event handler role* handles communication from the service to the server while *the manager role* handles communication from the server to the service. So combing the two roles, the data flow between service and server looks as similar to below, using HTTP protocol:
+You may have noticed that the *event handler role* handles communication from the service to the server while *the manager role* handles communication from the server to the service. So combining the two roles, the data flow between service and server looks as similar to below, using HTTP protocol:
 
 ![Diagram showing the Web PubSub service bi-directional workflow.](./media/concept-service-internals/http-service-server.png)
 
